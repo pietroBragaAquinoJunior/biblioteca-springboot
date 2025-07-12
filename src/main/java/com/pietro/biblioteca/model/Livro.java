@@ -1,6 +1,5 @@
-package com.pietro.biblioteca.livro;
+package com.pietro.biblioteca.model;
 
-import com.pietro.biblioteca.autor.Autor;
 import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;

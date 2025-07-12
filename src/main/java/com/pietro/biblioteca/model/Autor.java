@@ -1,4 +1,4 @@
-package com.pietro.biblioteca.autor;
+package com.pietro.biblioteca.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
